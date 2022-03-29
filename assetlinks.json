@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.bni_agen_46",
+               "sha256_cert_fingerprints": ["59:EE:54:90:FB:EE:AA:81:10:69:EB:7:0:90:19:55:76:6B:75:2D:60:E0:97:F2:A5:68: 7B: D9: 2B: 47:90:AE"] }
+}]
